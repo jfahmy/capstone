@@ -2,7 +2,15 @@
 The second deliverable for the capstone is your product plan.
 
 ## Product Plan Components
-1. __Personal Learning Goals__: A list outlining the major things that you want to focus on learning in this project.
+1. __Personal Learning Goals__: 
+    1. Become fluent in Python
+        a. And become a webscrape masta' using BeautifulSoup
+    2. Study Markov Chains, understand how they're built and what they can be used for (And what they CAN'T be used for)
+    3. Explore designing data structures and learn about Protocol Buffers (an industry standard that is used in place of XML and JSON and can be used to serialize data)
+    4. Learn how to configure and deloy to a virtual machine
+    5. Learn what a Cron job is and how to set one up on virtual machine
+    6. Have fun making a mock AI that tweets
+    
 
 1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
 
